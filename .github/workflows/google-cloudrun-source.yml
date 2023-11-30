@@ -52,7 +52,7 @@ on:
 
 env:
   PROJECT_ID: challengelatam-406716 # TODO: update Google Cloud project id
-  SERVICE: api_test # TODO: update Cloud Run service name
+  SERVICE: apitest # TODO: update Cloud Run service name
   REGION: southamerica-west1 # TODO: update Cloud Run service region
 
 jobs:
